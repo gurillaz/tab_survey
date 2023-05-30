@@ -27,3 +27,9 @@ Clone the repository and install all dependencies
 ```bash
   npm run serve
 ```
+
+## License
+
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) 
+
+
