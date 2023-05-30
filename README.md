@@ -8,12 +8,16 @@ The web app is designed to streamline the process of collecting customer reviews
 
 **Client:** VueJS, Vuetify, AnimateCSS
 
-**Server:** Google Spreadsheet 
+**Server:** Google 
 Spreadsheet(for data storage)
 
 ## Screenshots
 
-![App Screenshot](link here)
+![Entry screen](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_1.png)
+![Password screen](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_2.png)
+![Survey screen 1](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_3.png)
+![Survey screen 2](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_4.png)
+![Setting screen](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_5.png)
 
 
 ## Install&Run
