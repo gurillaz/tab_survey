@@ -13,11 +13,15 @@ Spreadsheet(for data storage)
 
 ## Screenshots
 
-![Entry screen](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_1.png)
-![Password screen](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_2.png)
-![Survey screen 1](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_3.png)
-![Survey screen 2](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_4.png)
-![Setting screen](https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_5.png)
+
+<p>
+<img src="https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_1.png" width="48%" height="48%"/>
+<img src="https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_2.png" width="48%" height="48%"/>
+<img src="https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_3.png" width="48%" height="48%"/>
+<img src="https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_4.png" width="48%" height="48%"/>
+<img src="https://raw.githubusercontent.com/gurillaz/tab_survey/main/screenshots/scr_5.png" width="48%" height="48%"/>
+</p>
+
 
 
 ## Install&Run
